@@ -3,9 +3,9 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder')
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'skibidi69-anhdomixi.aternos.me:40482',
+    host: 'skibiditoilet367.aternos.me',
     port: 25565,
-    username: 'MinhDz123'
+    username: 'Mixinananana36'
   })
 
   bot.loadPlugin(pathfinder)
